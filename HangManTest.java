@@ -107,12 +107,14 @@ public class HangManTest {
                     "     |\n" +
                     " =========\n",
 
-            " +---+\n" +
+                    " +---+\n" +
                     " |   |\n" +
                     " O   |\n" +
+                    "/|\\  |\n" +
                     "/ \\  |\n" +
                     "     |\n" +
-                    " =========\n"
+                    " =========\n",
+
     };
 
     public static String randomWord() {
